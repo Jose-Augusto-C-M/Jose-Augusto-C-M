@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jose-Augusto-C-M
 - 👀 I’m interested in remote sensing and deep learning
 - 🌱 I’m currently learning transformer archtectures and graphs
-- 💞️ I’m looking to collaborate on deep learning projects and companies
+- 💞️ I’m looking to collaborate on deep learning projects
 - 📫 How to reach me whiteyouzeph@gmail.com
 
 <!---
